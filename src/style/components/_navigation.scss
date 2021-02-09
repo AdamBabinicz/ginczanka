@@ -44,7 +44,7 @@
   .nav-portfolio {
     cursor: pointer;
     display: flex;
-    // padding-right: 6rem;
+    padding-right: 6rem;
     transition: 0.5s;
 
     &:hover .nav-projects,
@@ -69,8 +69,8 @@
 
       li {
         transform: rotateY(30deg) scaleX(1.2);
-        transform-origin: center;
         transition: 0.3s;
+        margin-bottom: 1rem;
       }
     }
   }
