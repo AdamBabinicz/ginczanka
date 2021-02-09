@@ -4,6 +4,7 @@
 
   .simply {
     color: $color-4;
+    text-shadow: 0.05rem 0.05rem 0.05rem rgba(0, 0, 0, 0.72);
   }
 
   #text-target {
@@ -13,9 +14,10 @@
     animation: color 30s alternate infinite;
     perspective: 200px;
     transform: translateX(26px);
+    text-shadow: 0.05rem 0.05rem 0.05rem rgba(0, 0, 0, 0.72);
 
     @media screen and (max-width: 480px) {
-      transform: translateX(-6px);
+      transform: translateX(-45px);
     }
   }
   .word {

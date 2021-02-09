@@ -1,7 +1,14 @@
 import React, { useEffect } from "react";
 
 const DynamicText = () => {
-  let array = ["poetka", "satyryczka"];
+  let array = [
+    "poetka ",
+    "satyryczka ",
+    "zamordowana ",
+    "przez ",
+    "Niemców ",
+    "w 1944 r.",
+  ];
   let wordIndex = 0;
   let letterIndex = 0;
 
