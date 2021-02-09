@@ -53,7 +53,7 @@
       opacity: 1;
 
       li {
-        transform: rotatey(0deg);
+        transform: rotateY(0deg);
       }
     }
 
@@ -68,7 +68,7 @@
       perspective: 500px;
 
       li {
-        transform: rotatey(30deg) scaleX(1.2);
+        transform: rotateY(30deg) scaleX(1.2);
         transform-origin: center;
         transition: 0.3s;
       }
