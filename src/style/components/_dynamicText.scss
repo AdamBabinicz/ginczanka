@@ -5,6 +5,10 @@
   .simply {
     color: $color-4;
     text-shadow: 0.05rem 0.05rem 0.05rem rgba(0, 0, 0, 0.72);
+
+    @media screen and (max-width: 480px) {
+      text-shadow: none;
+    }
   }
 
   #text-target {
@@ -18,6 +22,7 @@
 
     @media screen and (max-width: 480px) {
       transform: translateX(-45px);
+      text-shadow: none;
     }
   }
   .word {
