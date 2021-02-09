@@ -69,7 +69,7 @@ export const projectsData = [
     languages: ["wiersze wybrane przez Agatę Araszkiewicz"],
     infos:
       "Niniejszy tomik wydobywa kobiecy rodowód jej poezji jako źródło pulsującej siły, zaprasza czytelniczki i czytelników do nowego projektu widzenia kultury i przewartościowania jej znaczeń.",
-    img: "./assets/img/1.jpg",
+    img: "./assets/img/18.jpg",
     link: "https://www.youtube.com/watch?v=NavogQ0-xAg",
   },
   {
@@ -79,7 +79,7 @@ export const projectsData = [
     languages: ["Izolda Kiec, Wydawnictwo Marginesy"],
     infos:
       "Oto jest bryła i kształt, oto jest treść nieodzowna, konkretność istoty rzeczy, materia wkuta w rzeczownik, i nieruchomość świata i spokój martwot i stałość, coś, co trwa wciąż i jest, słowo stężone w ciało. Oto są proste stoły i twarde drewniane ławy, oto są wątłe i mokre z tkanek roślinnych trawy, oto jest rudy kościół, co w Bogu gotykiem sterczy, i oto jest żylne tętnicze luǳkie najprostsze serce.",
-    img: "./assets/img/2.jpg",
+    img: "./assets/img/1.png",
     link: "https://marginesy.com.pl/sklep/produkt/133259/poezje-1931-1944",
   },
 ];

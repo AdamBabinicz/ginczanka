@@ -7,6 +7,10 @@
   font-size: 1.7rem;
   perspective: 40px;
 
+  @media screen and (max-width: 768px) {
+    // top: 70%;
+  }
+
   &:hover .sb-main {
     pointer-events: auto;
   }
@@ -15,7 +19,7 @@
     display: grid;
     grid-template-columns: 20px 100px 20px;
     grid-template-areas: "a b c";
-    align-items: center;
+    align-items: start;
     justify-items: center;
     width: 150px;
     transition: 0.4s;
@@ -25,7 +29,7 @@
 
     @media screen and (max-width: 430px) {
       transform: rotateX(0deg) scaleY(1);
-      width: 50px;
+      // width: 50px;
     }
     .left,
     .right {
