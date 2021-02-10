@@ -46,7 +46,7 @@ export const projectsData = [
       "Polsko-włoskie wydanie wierszy Zuzanny Ginczanki (opracowanie, wstęp i przekład: Alessandro Amenta)",
     ],
     infos:
-      "Specjalny wybór wierszy Zuzanny Ginczanki, zatytułowany (z ginczańska) Krzątanina mglistych pozorów. Powstały na pamiątkę, jak kamyk kładziony żydowskiej autorce. Bez napuszenia, mimo że w tej specjalnej formie. Tym ciekawiej jest, że to wydanie dwujęzyczne (polsko-włoskie) wierszy znakomitej poetki (i polskiej, i żydowsko-polskiej, i żydowskiej), żyjącej przed inaczej, niestety, być nie chciało Zagładą.",
+      "Specjalny wybór wierszy Zuzanny Ginczanki, zatytułowany (z ginczańska) Krzątanina mglistych pozorów. Powstały na pamiątkę, jak kamyk kładziony żydowskiej autorce. Bez napuszenia, mimo że w tej specjalnej formie. Tym ciekawiej jest, że to wydanie dwujęzyczne (polsko-włoskie) ...",
     img: "./assets/img/13.jpg",
     link:
       "https://www.taniaksiazka.pl/krzatanina-mglistych-pozorow-wiersze-wybrane-zuzanna-ginczanka-p-266091.html",
@@ -78,7 +78,7 @@ export const projectsData = [
     date: "2019",
     languages: ["Izolda Kiec, Wydawnictwo Marginesy"],
     infos:
-      "Oto jest bryła i kształt, oto jest treść nieodzowna, konkretność istoty rzeczy, materia wkuta w rzeczownik, i nieruchomość świata i spokój martwot i stałość, coś, co trwa wciąż i jest, słowo stężone w ciało. Oto są proste stoły i twarde drewniane ławy, oto są wątłe i mokre z tkanek roślinnych trawy, oto jest rudy kościół, co w Bogu gotykiem sterczy, i oto jest żylne tętnicze luǳkie najprostsze serce.",
+      "Oto jest bryła i kształt, oto jest treść nieodzowna, konkretność istoty rzeczy, materia wkuta w rzeczownik, i nieruchomość świata i spokój martwot i stałość, coś, co trwa wciąż i jest, słowo stężone w ciało. Oto są proste stoły ...",
     img: "./assets/img/1.png",
     link: "https://marginesy.com.pl/sklep/produkt/133259/poezje-1931-1944",
   },

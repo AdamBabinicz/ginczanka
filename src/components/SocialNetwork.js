@@ -20,7 +20,7 @@ const SocialNetwork = () => {
     <div className="social-network">
       <ul className="content">
         <a
-          href="https://www.facebook.com"
+          href="https://www.facebook.com/zuzanna.ginczanka.16"
           target="_blank"
           rel="noopener noreferrer"
           className="hover"
@@ -31,7 +31,7 @@ const SocialNetwork = () => {
           </li>
         </a>
         <a
-          href="https://www.twitter.com"
+          href="https://twitter.com/CzytamJestem"
           target="_blank"
           rel="noopener noreferrer"
           className="hover"
@@ -42,14 +42,14 @@ const SocialNetwork = () => {
           </li>
         </a>
         <a
-          href="https://www.instagram.com"
+          href="https://www.youtube.com/watch?v=CN_j9SZN6RU"
           target="_blank"
           rel="noopener noreferrer"
           className="hover"
           onMouseOver={anim}
         >
           <li>
-            <i className="fab fa-instagram"></i>
+            <i className="fab fa-youtube"></i>
           </li>
         </a>
       </ul>
